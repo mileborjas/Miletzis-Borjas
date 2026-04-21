@@ -17,7 +17,7 @@ Junior QA Analyst with a solid foundation in the Software Testing Life Cycle (ST
 **Technical & Automation**
 - **Languages:** Python, SQL.
 - **Automation:** Selenium, Katalon Studio.
-- **API Testing:** Postman, SoapUI.*
+- **API Testing:** Postman, SoapUI.
 
 **Business & Analysis**
 - **Data:** Power BI, Salesforce, Dynamics 365.
