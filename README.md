@@ -23,8 +23,8 @@ Analista QA Junior con una sólida base en el ciclo de vida de pruebas de softwa
 ---
 
 ### 🚀 Proyectos Destacados
-* 🛒 **[Portafolio de Pruebas Manuales](https://github.com/TU_USUARIO/Manual-Testing-Portfolio):** Ciclo completo de STLC, pruebas en el Metaverso y estrategias con IA.
-* 🚀 **[Pruebas de API con Postman](https://github.com/TU_USUARIO/API-Testing-Postman):** Documentación técnica y validación de Endpoints REST.
+* 🛒 **[Portafolio de Pruebas Manuales](https://github.com/mileborjas/Manual-Testing-Portfolio):** Ciclo completo de STLC, pruebas en el Metaverso y estrategias con IA.
+* 🚀 **[Pruebas de API con Postman](https://github.com/mileborjas/API-Testing-Postman):** Documentación técnica y validación de Endpoints REST.
 * 🐍 **Laboratorio de Automatización:** Actualmente desarrollando scripts de extremo a extremo (E2E) con Python y Selenium.
 
 ---
