@@ -1,37 +1,35 @@
-# Miletzis-Borjas
-QA Analyst | Junior QA | Software Testing &amp; Automation Enthusiast
-# Hi there, I'm Miletzis Borjas! 👋
-### Junior QA  |  QA Analyst
+# ¡Hola, soy Miletzis Borjas! 👋
+### Analista QA Junior | QA Analyst
 
-Junior QA Analyst with a solid foundation in the Software Testing Life Cycle (STLC). Focused on ensuring quality through functional testing in web environments and APIs (REST/SOAP), applying Agile methodologies to optimize product certification phases. I integrate technical knowledge in SQL and defect management in Jira/Zephyr with an extensive background in operational leadership, providing a strategic vision centered on user experience and process efficiency. Currently deepening my skills in Python programming and Selenium automation to enhance test coverage and quality.
+Analista QA Junior con una sólida base en el ciclo de vida de pruebas de software (STLC). Mi enfoque está en asegurar la calidad mediante pruebas funcionales en entornos web y APIs (REST/SOAP), aplicando metodologías ágiles para optimizar las fases de certificación del producto. Integro conocimientos técnicos en SQL y gestión de defectos en Jira/Zephyr con una amplia trayectoria previa de liderazgo operativo, lo que me permite aportar una visión estratégica centrada en la experiencia del usuario y la eficiencia de procesos. Actualmente profundizando en programación con Python y automatización con Selenium para potenciar la cobertura y calidad de las pruebas.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Mi Tech Stack
 
-**Testing & Management**
-- **Tools:** Jira, Zephyr, Qase, Tally.
-- **Methodologies:** Scrum, Kanban, STLC.
-- **Specialty:** Functional Testing, Regression, Bug Reporting.
+**Pruebas y Gestión**
+- **Herramientas:** Jira, Zephyr, Qase, Tally.
+- **Metodologías:** Scrum, Kanban, STLC.
+- **Especialidad:** Pruebas Funcionales, Regresión, Reporte de Bugs.
 
-**Technical & Automation**
-- **Languages:** Python, SQL.
-- **Automation:** Selenium, Katalon Studio.
-- **API Testing:** Postman, SoapUI.
+**Técnico y Automatización**
+- **Lenguajes:** Python, SQL.
+- **Automatización:** Selenium WebDriver, Katalon Studio.
+- **Pruebas de API:** Postman, SoapUI.
 
-**Business & Analysis**
-- **Data:** Power BI, Salesforce, Dynamics 365.
-
----
-
-### 🚀 Featured Projects
-* 🛒 **E-Commerce Manual Testing:** Full STLC cycle, from test case design to bug documentation.
-* 🌐 **Metaverse Testing:** Experience testing in emerging environments (Spatial.io) and Metamask integration.
-* 🐍 **Automation Lab:** Currently developing end-to-end scripts with Python & Selenium.
+**Negocio y Análisis**
+- **Datos:** Power BI, Salesforce, Dynamics 365.
 
 ---
 
-### 📫 Connect with me:
+### 🚀 Proyectos Destacados
+* 🛒 **[Portafolio de Pruebas Manuales](https://github.com/TU_USUARIO/Manual-Testing-Portfolio):** Ciclo completo de STLC, pruebas en el Metaverso y estrategias con IA.
+* 🚀 **[Pruebas de API con Postman](https://github.com/TU_USUARIO/API-Testing-Postman):** Documentación técnica y validación de Endpoints REST.
+* 🐍 **Laboratorio de Automatización:** Actualmente desarrollando scripts de extremo a extremo (E2E) con Python y Selenium.
+
+---
+
+### 📫 Conéctate conmigo:
 - [LinkedIn](https://www.linkedin.com/in/mileborjas/)
 - [Email](mailto:mileborjasnava@gmail.com)
 
