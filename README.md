@@ -18,7 +18,7 @@ Analista QA Junior con una sólida base en el ciclo de vida de pruebas de softwa
 - **Pruebas de API:** Postman, SoapUI.
 
 **Negocio y Análisis**
-- **Datos:** Power BI, Salesforce, Dynamics 365.
+- **Datos:** Power BI, Salesforce, Dynamics 365, Excel.
 
 ---
 
