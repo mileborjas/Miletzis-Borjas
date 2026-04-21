@@ -21,6 +21,11 @@ Analista QA Junior con una sólida base en el ciclo de vida de pruebas de softwa
 - **Datos:** Power BI, Salesforce, Dynamics 365.
 
 ---
+### 📊 Gestión de Pruebas (Qase)
+Uso de herramientas profesionales para la gestión del ciclo de vida de pruebas, creación de repositorios y ejecución de test runs.
+* **[Ver Evidencia en Qase (PDF)](./Test-Management-Qase/Qase.pdf)**: Documentación de casos de prueba detallados para Instagram, incluyendo precondiciones, pasos y resultados esperados.
+
+---
 
 ### 🚀 Proyectos Destacados
 * 🛒 **[Portafolio de Pruebas Manuales](https://github.com/mileborjas/Manual-Testing-Portfolio):** Ciclo completo de STLC, pruebas en el Metaverso y estrategias con IA.
