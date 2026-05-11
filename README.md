@@ -23,7 +23,7 @@ Analista QA Junior con una sólida base en el ciclo de vida de pruebas de softwa
 ---
 
 ### 🚀 Proyectos Destacados
-* 🤖 **[Automatización de Pruebas Web (Python & Selenium)](./Automation/)**: Suite de automatización para E-commerce que incluye lógica de bucles (`while`), manejo de variables dinámicas y validación de escenarios negativos.
+* 🤖 **[Automatización de Pruebas Web (Python & Selenium)](https://github.com/mileborjas/Automation-Projects)**: Suite de automatización que incluye lógica de bucles (`while`), manejo de variables dinámicas y validación de escenarios negativos en entornos E-commerce.
 * 🛒 **[Portafolio de Pruebas Manuales](https://github.com/mileborjas/Manual-Testing-Portfolio):** Ciclo completo de STLC, pruebas en el Metaverso y estrategias con IA.
 * 📊 **[Gestión de Pruebas en Qase](https://github.com/mileborjas/Manual-Testing-Portfolio/blob/main/gestion-pruebas/evidencia_qase.pdf):** Documentación profesional de casos de prueba y ejecución de ciclos en herramientas TMS.
 * 🚀 **[Pruebas de API con Postman](https://github.com/mileborjas/API-Testing-Postman):** Documentación técnica y validación de Endpoints REST.
