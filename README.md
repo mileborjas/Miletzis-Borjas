@@ -27,6 +27,11 @@ Analista QA Junior con una sólida base en el ciclo de vida de pruebas de softwa
 * 📊 **[Gestión de Pruebas en Qase](https://github.com/mileborjas/Manual-Testing-Portfolio/blob/main/gestion-pruebas/evidencia_qase.pdf):** Documentación profesional de casos de prueba y ejecución de ciclos en herramientas TMS.
 * 🚀 **[Pruebas de API con Postman](https://github.com/mileborjas/API-Testing-Postman):** Documentación técnica y validación de Endpoints REST.
 * 🗄️ **[Consultas SQL para QA](https://github.com/mileborjas/SQL-QA-Queries):** Validación de bases de datos e integridad de datos.
+* ## 🤖 Automatización (Katalon Recorder)
+He integrado una suite de pruebas automatizadas que incluye:
+* **Compra con Bucles:** Uso de variables y estructuras `while`.
+* **Pruebas Negativas:** Validación de errores en el inicio de sesión.
+* **Búsqueda Dinámica:** Verificación de resultados mediante filtros.
 
 ---
 
